@@ -1,6 +1,6 @@
 # Nuclear Option – Deutscher Patch (Localization Patch)
 
-Ein deutsches Übersetzungsmod für Nuclear Option. Funktioniert als BepInEx-Plugin und übersetzt UI, Enzyklopädie, Hinweise und Tooltips — insgesamt **1.427 Einträge**.
+Ein deutsches Übersetzungsmod für Nuclear Option. Funktioniert als BepInEx-Plugin und übersetzt UI, Enzyklopädie, Hinweise und Tooltips — insgesamt **1.447 Einträge**.
 
 ## Voraussetzungen
 
@@ -29,7 +29,7 @@ Ein deutsches Übersetzungsmod für Nuclear Option. Funktioniert als BepInEx-Plu
 | Datei | Beschreibung |
 |-------|-------------|
 | `LocalizationPatch.dll` | Patch-Plugin |
-| `de.json` | Deutsche Übersetzungsdaten (1.427 Einträge) |
+| `de.json` | Deutsche Übersetzungsdaten (1.447 Einträge) |
 
 ## Tastenkürzel im Spiel
 
