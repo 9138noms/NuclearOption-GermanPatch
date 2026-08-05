@@ -42,3 +42,11 @@ Ein deutsches Übersetzungsmod für Nuclear Option. Funktioniert als BepInEx-Plu
 
 - Missionsnamen und Fraktionsnamen (PALA, BDF) bleiben auf Englisch.
 - Bei Problemen können Sie in der Datei `BepInEx\config\com.yuulf.localizationpatch.cfg` die Sprache manuell auf `Language = de` setzen.
+
+## Source code
+
+This mod ships `LocalizationPatch.dll`, a BepInEx plugin. Its full source is published
+at **https://github.com/9138noms/NuclearOption-LocalizationPatch** — no obfuscation, no network access, no code outside the game folder.
+
+The same plugin binary is shared by every language patch; only the `.json` and the font
+differ between them.
